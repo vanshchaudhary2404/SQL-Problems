@@ -1,58 +1,21 @@
-# E-Commerce Frontend Website
+# 💫 Hi there , I'm Vansh👋
+I'm a passionate C++ Developer with having  experience in HTML, CSS, JavaScript ,NodeJs , ExpressJs , MongoDB . I enjoy solving complex problems, writing efficient code, and building creative web pages.<br><br>💻 Languages & Skills:<br>Language :  C++ , C , Python.<br>Web Technologies :  HTML, CSS, JavaScript, NodeJs , Express , MongoDB.<br>🚀  What I Love :<br>Writing clean and optimized code.<br>Exploring new technologies and best practices.<br>Building efficient and scalable websites<br><br>📫 Let's Connect!<br>Feel free to check out my repositories and collaborate!
 
-This repository contains the frontend code for an e-commerce website. The application is built to provide a seamless shopping experience for users.
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshkumar024/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshtech7217@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/vansh024/)
 
-## Features
+# 💻 Languages & Tools:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Product Listings**: Browse a wide range of products with detailed descriptions.
-- **Search and Filter**: Easily find products using search and filter options.
-- **Shopping Cart**: Add, remove, and manage items in your cart.
-- **Responsive Design**: Optimized for both desktop and mobile devices.
-- **User Authentication**: Secure login and registration functionality.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vanshchaudhary2404&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vanshchaudhary2404&theme=light&hide_border=true)<br/>
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanshchaudhary2404&theme=dark&border_radius=6)<br/>-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Technologies Used
-
-- **HTML5**: Structure of the application.
-- **CSS3**: Styling and layout.
-- **JavaScript (ES6)**: Dynamic functionality.
-- **React.js**: Component-based UI development.
-- **Axios**: API integration for backend communication.
-
-## Installation
-
-1. Clone the repository:
-  ```bash
-  git clone https://github.com/your-username/ecommerce-frontend.git
-  ```
-2. Navigate to the project directory:
-  ```bash
-  cd ecommerce-frontend
-  ```
-3. Install dependencies:
-  ```bash
-  npm install
-  ```
-4. Start the development server:
-  ```bash
-  npm start
-  ```.
-
-## Folder Structure
-
-- **/src**: Contains all source code.
-  - **/components**: Reusable UI components.
-  - **/pages**: Page-level components.
-  - **/assets**: Images, icons, and other static files.
-  - **/utils**: Helper functions and utilities.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries, please contact [vansh@gmail.com].
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vanshchaudhary2404&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
