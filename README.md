@@ -14,7 +14,10 @@ I'm a passionate C++ Developer with having  experience in HTML, CSS, JavaScript 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vanshchaudhary2404&theme=light&hide_border=true)<br/>
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanshchaudhary2404&theme=dark&border_radius=6)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchaudhary2404&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=vanshchaudhary2404)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=vanshchaudhary2404&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=vanshchaudhary2404&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=vanshchaudhary2404&type=top-repos)
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vanshchaudhary2404&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
