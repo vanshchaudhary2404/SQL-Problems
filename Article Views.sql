@@ -2,3 +2,11 @@
   Date : 2025-12-20
   Description: Leetcode problem-4
 */
+--# Write your MySQL query statement below
+SELECT DISTINCT 
+    author_id AS id
+FROM 
+    Views
+WHERE 
+    author_id = viewer_id
+ORDER BY id;
