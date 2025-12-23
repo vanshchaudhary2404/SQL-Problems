@@ -11,6 +11,7 @@ JOIN Weather w2
 WHERE w1.temperature > w2.temperature;
 
 --Approach 2 USING Window Function
+-- “I self-join the Weather table on consecutive dates and compare today’s temperature with yesterday’s to identify rising temperatures.”
 SELECT id 
 FROM (
     SELECT id , temperature,
