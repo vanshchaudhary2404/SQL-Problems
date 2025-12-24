@@ -10,6 +10,7 @@ The goal of this repo is to strengthen **SQL fundamentals to advanced concepts**
 - Subqueries
 - Group By & Having
 - Advanced SQL Logic
+---
 
 - **clarity and interview-oriented thinking is important**.
 - **Interviewers value clarity over cleverness.**.
