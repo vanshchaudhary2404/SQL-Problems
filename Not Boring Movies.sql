@@ -1,6 +1,6 @@
 /* Author : Vansh Kumar
   Date : 2025-12-25
-  Description: Leetcode problem-15
+  Description: Leetcode problem-620
 */
 # Write your MySQL query statement below
 SELECT *
