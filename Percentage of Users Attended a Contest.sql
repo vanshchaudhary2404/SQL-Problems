@@ -14,3 +14,11 @@ From Register r
 CROSS JOIN Users u
 GROUP BY r.contest_id
 ORDER BY  percentage DESC , contest_id ASC; 
+
+-- Approach 2
+SELECT  
+    r.contest_id,
+    ROUND(COUNT(r.user_id) * 100.0 / (SELECT COUNT(*) FROM Users), 2) AS percentage
+From Register r
+GROUP BY r.contest_id
+ORDER BY  percentage DESC , contest_id ASC; 
