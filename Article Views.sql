@@ -1,6 +1,6 @@
 /* Author : Vansh Kumar
   Date : 2025-12-20
-  Description: Leetcode problem-4
+  Description: Leetcode problem-1148
 */
 --# Write your MySQL query statement below
 SELECT DISTINCT 
