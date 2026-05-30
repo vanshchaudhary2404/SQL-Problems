@@ -1,0 +1,21 @@
+# Write your MySQL query statement below
+SELECT ROUND(SUM(tiv_2016), 2) AS tiv_2016
+FROM Insurance
+WHERE tiv_2015 IN (
+    SELECT tiv_2015
+    FROM Insurance
+    Group by tiv_2015
+    Having COUNT(*) > 1
+) AND (lat , lon) IN (
+    SELECT lat, lon
+    FROM Insurance
+    Group by lat,lon
+    Having COUNT(*) = 1
+)
+
+
+# 1. Select records whose tiv_2015 value appears more than once.
+# 2. Among them, keep only records having a unique (lat, lon) location.
+# 3. Sum their tiv_2016 values and round to 2 decimals.
+# 2 conditions in where 1st -> # Find duplicated tiv_2015 values
+# 2nd ->  # Find locations that belong to exactly one record
